@@ -216,23 +216,19 @@ Semua file dokumentasi ada di folder `Dokumentasi/`.
 
 **Main Menu**
 
-![Main Menu](<img width="267" height="496" alt="image" src="https://github.com/user-attachments/assets/7e44ef93-f27a-42b9-8f8c-d9f8eed4c7b9" />)
+<img width="267" height="496" alt="image" src="https://github.com/user-attachments/assets/7e44ef93-f27a-42b9-8f8c-d9f8eed4c7b9" />)
 
 **Permainan Berjalan dan Skor bertambah ketika melewati pipa**
 
-![Gameplay](
 
 https://github.com/user-attachments/assets/25f955a5-b5d1-4a90-a96e-9d9c8241c205
 
-)
 
 **Game Over**
 
-![Game Over]( 
 
 https://github.com/user-attachments/assets/08161080-a038-4cad-b0b6-843ab8c8bd7a
 
-)
 
 ---
 
