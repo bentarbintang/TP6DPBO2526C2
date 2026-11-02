@@ -126,7 +126,7 @@ classDiagram
 
 **Bonus**
 
-- Audio: BGM, efek lompat, efek skor, dan efek tabrakan (format `.wav`).
+- Audio: efek lompat, efek skor, dan efek tabrakan (format `.wav`).
 
 **Fitur kreatif tambahan**
 
